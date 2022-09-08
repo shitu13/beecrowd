@@ -1,4 +1,4 @@
-beecrowd | 1000
+beecrowd | 1000 
 Hello World!
 
 #include <iostream>
