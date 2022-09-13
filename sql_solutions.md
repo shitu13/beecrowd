@@ -1,6 +1,6 @@
 # SQL_Solutions
 
-##Sections:
+## Index
 1. [2602 Basic Select](#2602-Basic-Select)
 
 
