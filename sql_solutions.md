@@ -4,12 +4,26 @@
 1. [2602 Basic Select](#2602-Basic-Select)
 2. [2603 Customer Address](#2603-Customer-Address)
 3. [2604 Under 10 or Greater Than 100](#2604-Under-10-or-Greater-Than-100)
-4. [2605	Executive Representatives](#2605-Executive-Representatives)
-5. 
-
-
-
-
+4. [2605 Executive Representatives](#2605-Executive-Representatives)
+5. [2606 Categories](#2606-Categories)
+6. [2607 Providers' City in Alphabetical Order](#2607-Providers'-City-in-Alphabetical-Order)
+7. [2608 Higher and Lower Price](#2608-Higher-and-Lower-Price)
+8. [2609 Products by Categories](#2609-Products-by-Categories)
+9. [2610 Average Value of Products](#2610-Average-Value-of-Products)
+10. [2611	Action Movies](#2611-Action-Movies)
+11. [2613 Cheap Movies](#2613-Cheap-Movies)
+12. [2614	September Rentals](#2614-September-Rentals)
+13. [2615 Expanding the Business](#2615-Expanding-the-Business)
+14. [2616	No Rental](#2616-No-Rental)
+15. [2617	Provider Ajax SA](#2617-Provider-Ajax-SA)
+16. [2618	Imported Products](#2618-Imported-Products)
+17. [2619	Super Luxury](#2619-Super-Luxury)
+18. [2620	Orders in First Half](#2620-Orders-in-First-Half)
+19. [2621	Amounts Between 10 and 20](#2621-Amounts-Between-10-and-20)
+20. [2622 Legal Person](#2622-Legal-Person)
+21. [2623 Categories with Various Products](#2623-Categories-with-Various-Products)
+22. [2624 Number of Cities per Customers](#2624-Number-of-Cities-per-Customers)
+23. [2738 Contest](#2738-Contest)
 
 
 
@@ -49,3 +63,24 @@ SELECT products.name, providers.name FROM products
 JOIN providers ON providers.id = id_providers
 WHERE id_categories = 6
 ```
+## 2606 Categories
+## 2607 Providers' City in Alphabetical Order
+
+## 2608 Higher and Lower Price
+## 2609 Products by Categories
+## 2610 Average Value of Products
+## 2611 Action Movies
+## 2613 Cheap Movies
+## 2614 September Rentals
+## 2615 Expanding the Business
+## 2616 No Rental
+## 2617 Provider Ajax SA
+## 2618 Imported Products
+## 2619 Super Luxury
+## 2620 Orders in First Half
+## 2621 Amounts Between 10 and 20
+## 2622 Legal Person
+## 2623 Categories with Various Products
+## 2624 Number of Cities per Customers
+## 2738 Contest
+
